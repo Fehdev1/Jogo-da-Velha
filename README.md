@@ -15,7 +15,6 @@ O Jogo da Velha é um jogo clássico de estratégia em que dois jogadores se rev
 - Verificação automática de vitória ou empate ao reniciar manualmente.
 - Reinício do jogo a qualquer momento.
 
-##---------------------
 # OBS
 - Foi o primeiro Repositório, não sei se foi certo da forma que foi anexado mas enfim...
 - Aceito ajuda para melhorar meu apredizado !  
